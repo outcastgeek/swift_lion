@@ -1,5 +1,6 @@
 # Project Files and Folders
 .build
+Packages
 
 ### CMake template
 CMakeCache.txt
